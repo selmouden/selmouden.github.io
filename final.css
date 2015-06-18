@@ -25,13 +25,14 @@
 .jumbotron h1 {
   color: #fff;
   font-size: 48px;  
-  font-family: 'Shift', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
   font-weight: bold;
 }
 
 .jumbotron p {
   font-size: 20px;
   color: #fff;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 .learn-more {
@@ -39,7 +40,7 @@
 }
 
 .learn-more h3 {
-  font-family: 'Shift', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
   font-size: 18px;
   font-weight: bold;
 }
@@ -56,6 +57,7 @@
 .neighborhood-guides h2{
     color: #393c3d;
     font-size: 24px;
+    font-family: 'Roboto Condensed', sans-serif;
 
 }
 
